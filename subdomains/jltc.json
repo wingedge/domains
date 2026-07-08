@@ -1,0 +1,14 @@
+{
+  "$schema": "https://raw.githubusercontent.com/is-pinoy-dev/ecosystem/main/packages/schemas/schema/v1/subdomain.schema.json",
+  "subdomain": "jltc",
+  "owner": {
+    "github": "MR-JLTC",
+    "username": "JLTC",
+    "email": "darkages38@gmail.com"
+  },
+  "records": {
+    "CNAME": {
+      "value": "jltc.netlify.app."
+    }
+  }
+}
