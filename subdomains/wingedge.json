@@ -6,7 +6,7 @@
     "email": "moreno.francis@gmail.com"
   },
   "records": {
-    "CNAME": {
+    "A": {
       "value": "104.236.76.57"
     }
   }
